@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: Yoichiro Shimizu/R/RSI
+Build-Jdk: 1.8.0-ea
+Created-By: Maven Integration for Eclipse
+
